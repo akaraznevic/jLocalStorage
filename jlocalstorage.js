@@ -8,7 +8,7 @@
 (function(){
     
     var 
-    	_is_storage_works = false,
+        _is_storage_works = false,
         _storage_object = {},
         _storage_size = 0;
         
