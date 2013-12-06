@@ -1,6 +1,6 @@
 # jLocalStorage
 
-** jLocalStorage** is a key-value store database to store data locally in the browser - jLocalStorage supports all major browsers: IE8+, Firefox3.5+, Safari4+, Chrome4+, Opera 10.5+, Iphone 2+, Android 2+
+**jLocalStorage** is a key-value store database to store data locally in the browser - jLocalStorage supports all major browsers: IE8+, Firefox3.5+, Safari4+, Chrome4+, Opera 10.5+, Iphone 2+, Android 2+
 
 ## Function reference
 
